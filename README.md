@@ -19,3 +19,6 @@ Complete training code and model checkpoints
 
 This work accompanies the research paper:
 **“Lightweight Aspect-Based Sentiment Analysis for Chinese Reviews
+
+
+Dataset: https://github.com/Meituan-Dianping/asap/tree/master/data
